@@ -16,7 +16,13 @@ public class Scharnier
 		bohrlöcherAnzahl = 5;
 	}
 
+
 	public void anschraubenAnTür()
 	{}
+
+
+	public void anschraubenAmTürrahmen()
+	{}
+
 
 }
