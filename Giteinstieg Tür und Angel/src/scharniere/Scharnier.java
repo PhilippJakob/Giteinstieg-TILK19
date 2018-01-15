@@ -6,7 +6,26 @@ public class Scharnier
 	// Im Türenbranch geändert
 	int anzahlBohrlöcher = 3;
 
-	public void bohren()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	public void bohrenTür()
 	{
 		//stammt aus der Tür
 	}
