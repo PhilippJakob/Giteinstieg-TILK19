@@ -9,6 +9,8 @@ public class Scharnier
 	public void bohren()
 	{
 		//stammt aus der Tür
-
 	}
+
+	public void anschraubenAnTür()
+	{}
 }
