@@ -21,4 +21,9 @@ public class Scharnier {
 		//stammt aus dem Branch Türrahmen
 	}
 
+	public void neueMethodeJakob3()
+	{
+		//stammt aus dem Branch Türrahmen
+	}
+
 }
