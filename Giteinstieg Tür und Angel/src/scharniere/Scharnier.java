@@ -29,5 +29,9 @@ public class Scharnier {
 	public void anschraubenAmTürrahmen()
 	{}
 
+	public void neueMethodeKock()
+	{
+
+	}
 
 }
