@@ -10,4 +10,11 @@ public class Tür
 	public void anbringenSchloßblende()
 	{}
 	
+	public void methodeNurFürTür()
+	{
+		//Diese Methode steht erstmal nur im Türbranch
+		//nicht im masterbranch.
+	}
+
+	
 }
