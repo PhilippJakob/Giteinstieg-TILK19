@@ -26,4 +26,8 @@ public class Scharnier {
 		//stammt aus dem Branch Türrahmen
 	}
 
+	public void anschraubenAmTürrahmen()
+	{}
+
+
 }
