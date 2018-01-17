@@ -1,4 +1,4 @@
-//Patricks Testversuch
+//Patricks Testversuch 1.2
 
 package türen;
 
