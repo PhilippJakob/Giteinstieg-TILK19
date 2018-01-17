@@ -6,7 +6,7 @@ public class BlyatTür
 	public int trefferpunkte;
 
 	/*
-	 * Die Blyat Tür
+	 * Die Blyat Tür :D
 	 */
 	public BlyatTür() 
 	{
