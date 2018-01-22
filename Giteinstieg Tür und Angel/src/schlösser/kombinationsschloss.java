@@ -1,3 +1,4 @@
+// --------------------------------- @Author Jonas N. Henle -----------------------------------
 package schlösser;
 
 public class kombinationsschloss
