@@ -10,5 +10,6 @@ public class WundertürNico {
 	private static void wundern()
 	{
 		System.out.println("Häää?!");
+		//Hallo
 	}
 }
