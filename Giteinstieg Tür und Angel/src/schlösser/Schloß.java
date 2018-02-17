@@ -1,3 +1,6 @@
+/**
+ * Naasner_17.2.18
+ */
 package schlösser;
 
 public class Schloß

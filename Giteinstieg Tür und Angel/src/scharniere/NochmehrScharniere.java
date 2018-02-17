@@ -1,3 +1,6 @@
+/**
+ * Wer ist der Autor?
+ */
 package scharniere;
 
 public class NochmehrScharniere {
