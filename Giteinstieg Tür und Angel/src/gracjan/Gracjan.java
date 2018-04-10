@@ -1,4 +1,4 @@
-package Gracjan;
+package gracjan;
 
 public class Gracjan {
 
