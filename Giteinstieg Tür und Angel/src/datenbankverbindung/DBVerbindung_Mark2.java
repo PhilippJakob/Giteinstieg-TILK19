@@ -1,5 +1,5 @@
 package datenbankverbindung;
 
-public class DBVerbindung_Mark {
+public class DBVerbindung_Mark2 {
 
 }
